@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#Additions of project
+.env/*
+.env
+*.log
+.venv
+venv
+venv/*
+.venv/*
+.vscode
+.ipynb_*
+__pycache__/
+.vscode
