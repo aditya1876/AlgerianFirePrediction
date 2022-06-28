@@ -2,7 +2,8 @@ import pickle
 import logging
 import os
 from dotenv import load_dotenv
-import sklearn
+#import sklearn
+import numpy as np
 
 def load_env_vars():
     #load the environment variables (in prod) and load the variables from .env file(in development)
